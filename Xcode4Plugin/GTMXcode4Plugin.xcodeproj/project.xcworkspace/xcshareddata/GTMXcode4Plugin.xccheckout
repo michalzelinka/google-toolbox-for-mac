@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>24116201-1725-42CA-B253-B5CC8E03965F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GTMXcode4Plugin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7dc7ac4e-7543-0410-b95c-c1676fc8e2a3++505</key>
+		<string>http://google-toolbox-for-mac.googlecode.com/svn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xcode4Plugin/GTMXcode4Plugin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7dc7ac4e-7543-0410-b95c-c1676fc8e2a3++505</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7dc7ac4e-7543-0410-b95c-c1676fc8e2a3++505</key>
+		<string>http://google-toolbox-for-mac.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://google-toolbox-for-mac.googlecode.com/svn/trunk/Xcode4Plugin/GTMXcode4Plugin.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7dc7ac4e-7543-0410-b95c-c1676fc8e2a3++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7dc7ac4e-7543-0410-b95c-c1676fc8e2a3++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>google-toolbox-for-mac-read-only</string>
+		</dict>
+	</array>
+</dict>
+</plist>
